@@ -1,2 +1,0 @@
-Week 1
-Group formed. The project chose, we are planning to build a booking website. Three group member is charged in front-end, design webpage, me and Xiao are charge in the back-end, try to figure out which programming tool we will use, Flask or Django.
